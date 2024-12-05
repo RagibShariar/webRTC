@@ -1,24 +1,26 @@
-# quickmeet
-A video chat/meeting webapp using WebRTC and WebSockets (socket.io). Basically a Google Meet clone + a collaborative whiteboard.
-<br><br>
-<img align="center" src="https://i.imgur.com/FxgApJU.jpg">
+## Installation
 
-<img align="center" src="https://i.imgur.com/tMAaFpF.jpg">
+To install the application, follow these steps:
 
-<img align="center" src="https://i.imgur.com/YvvA08O.jpg">
+1. **Install the dependencies:**
 
-## Current Features?
+   ```bash
+   npm install
+   ```
 
-1. Video Calls
-2. Chatbox
-3. Collaborative Whiteboard
-4. Screensharing
+## Running the Application
 
-## Upcoming Features?
+To run the application locally, follow these steps:
 
-1. List of attendees
-2. Responsive front-end for Rooms
+1. Ensure you are in the project directory.
+2. Start the application:
 
-## Contributions?
+```sh
+   npm run dev
+```
 
-Feel free to make a PR.
+4. Open your web browser and go to:
+
+```sh
+   http://localhost:3000
+```
